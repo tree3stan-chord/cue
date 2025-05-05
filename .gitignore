@@ -1,0 +1,14 @@
+*.so
+*.wav
+wav/*
+dist/*
+build/*
+.cuenv/*
+__pycache__/*
+**/*/gesture_dsp.egg-info/*
+
+# man look at that curve; THAT is 
+# what I LIVE for
+#
+# actually on second look it's not very
+# satisfying. Column dupes. Maybe next time
